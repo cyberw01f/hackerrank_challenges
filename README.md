@@ -1,4 +1,4 @@
-# hackerrank_solutions
+# Hackerrank Solutions
 Some of my hackerrank solutions for:
-* problem solving (algorithms and data structures)
-* python domain problems
+* Problem Solving (Algorithms and Data Structures). *Note: most of them are in Java*
+* Python Domain Problems
